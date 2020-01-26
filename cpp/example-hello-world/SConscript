@@ -1,0 +1,4 @@
+Program(
+    target='hello_world',
+    source='main.cc',
+)
